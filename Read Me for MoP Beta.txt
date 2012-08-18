@@ -1,0 +1,36 @@
+To Do:
+
+Clean up Harmony and Shadow Orbs Bar
+Fix DebuffHighlight
+(Fix Raid Assistant/Raid Icon stuff when oUF updates that) DONE
+
+
+If you have any issues with the MoP Version please post full error for me to look over. You can message it to me
+on wowinterface or post it on the oUF_Karma MoP Beta comments.
+
+There should be minimal issues. I know that raid icons/assist icons do not show. I'm sorry I will get
+around to it. Consider it a beta since you are in beta you should be used to unusual quirks.
+
+I have working versions of Monk Harmony Bar ie CHI and Spriest Shadow orbs in layout.You need to install the
+respective plugins written by Tukz until oUF updates to include these.
+
+Shadow Orb Plugin: www.wowinterface.com/downloads/info21225-oUFShadowOrbsBar.html
+Harmony Bar Plugin: www.wowinterface.com/downloads/info21224-oUFHarmonyBar.html
+
+
+Thanks
+-Unkn
+
+Changelog 8-01-2012
+Removed dependency for Monks, Priests and Warlocks for their bars. You do not need Tukz plugins anymore.
+Sorry Demo I'm still failing at your bar.
+Couple different typo fixes.
+Fixed - I think - whatever issue was going on with castbar - all 3 of them.
+Released addistant, masterlooter, leader icons since oUF updated.
+Couple different typo fixes.
+
+Changelog 7-31-2012:
+Fixed Holy Power bar - TY to Screamie for pointing out the prob
+
+Changelog 7-26-2012:
+Warlock resource bars: Fixed - sorta Demonology is not working- I do not play a warlock so if you have any ideas guys feel free to shoot them my way.

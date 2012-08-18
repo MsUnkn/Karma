@@ -1,0 +1,17 @@
+## Interface: 50000
+## Author: Sauerkraut, Unkn
+## Title: oUF_Karma
+## Version: 1.5.2b (08-01-2012)
+## Notes: Simple Layout for oUF
+## RequiredDeps: oUF
+## OptionalDeps: oUF_CombatFeedback, oUF_boring_totembar, oUF_WeaponEnchant, oUF_Vengeance
+## X-Category: UnitFrames
+
+cfg.lua
+tags.lua
+castbar.lua
+Elements\AuraWatch.lua
+Elements\raidDebuffs.lua
+Elements\smooth.lua
+lib.lua
+core.lua
